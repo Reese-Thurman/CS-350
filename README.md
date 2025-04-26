@@ -1,2 +1,2 @@
 # CS-350
-Emerging System Architectures and Technologies
+Emerging Systems Architectures and Technologies
